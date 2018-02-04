@@ -1,2 +1,1 @@
-# leidjeleven
-Iets over doen wat werkt
+# config atom
